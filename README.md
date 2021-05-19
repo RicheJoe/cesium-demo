@@ -1,5 +1,5 @@
 # cesium-demo
-
+基于cesium的demo  简单实现点击标记位置  
 ## Project setup
 ```
 npm install
